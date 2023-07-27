@@ -18,7 +18,7 @@ highlight_name: true
 interests:
 - Urban photography
 - History
-- Wine
+- Oenology
 last_name: Poinelli
 organizations:
 - name: Deutsche Bundesbank
