@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="UJDT8nEGSZ2d_WfNTHkeOvr3Fogm9yCmLQOVgLbpsos" />
-
 ---
 date: "2022-10-24"
 sections:
