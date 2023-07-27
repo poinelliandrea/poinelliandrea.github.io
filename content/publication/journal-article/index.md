@@ -1,6 +1,7 @@
 ---
-abstract: Using survey data from German households, we find that individuals with lower climate concern tend to have higher inflation expectations up to five years ahead. This correlation is most pronounced among individuals with extremely high inflation expectations. Evaluating candidate explanations, we find that part of the link between climate concern and inflation expectations can be associated with individuals' perceived exposures to climate-related risks and with their distrust in the central bank. Overall, our results suggest that climate change perceptions matter for inflation expectations.
+abstract: Using survey data from German households, we find that individuals with higher concern about the consequences of climate change have lower inflation expectations up to five years ahead. We show that the link between climate concern and inflation expectations goes above and beyond individuals’ perception of their personal exposures to climate-related risks, their distrust in the central bank, and a broad range of socio-demographic and socio-economic control variables.
 # author_notes:
+# - https://sites.google.com/site/meinerding/home
 # - Equal contribution
 # - Equal contribution
 authors:
@@ -21,10 +22,10 @@ publication: '*Deutsche Bundesbank Discussion Paper, 12/2022*'
 #- "2"
 publishDate: "2022-04-27T00:00:00Z"
 #slides: example
-summary: Using survey data from German households, we find that individuals with lower climate concern tend to have higher inflation expectations up to five years ahead. This correlation is most pronounced among individuals with extremely high inflation expectations. Evaluating candidate explanations, we find that part of the link between climate concern and inflation expectations can be associated with individuals' perceived exposures to climate-related risks and with their distrust in the central bank. Overall, our results suggest that climate change perceptions matter for inflation expectations.
+summary: Using survey data from German households, we find that individuals with higher concern about the consequences of climate change have lower inflation expectations up to five years ahead. We show that the link between climate concern and inflation expectations goes above and beyond individuals’ perception of their personal exposures to climate-related risks, their distrust in the central bank, and a broad range of socio-demographic and socio-economic control variables.
 tags:
 #- Source Themes
-title: Inflation expectations and climate concern
+title: Households's Inflation expectations and concern about climate change
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://deliverypdf.ssrn.com/delivery.php?ID=733004110116080121096069064012097090020064018031086020031019037057033120032005024001100102015011116100072067029029122069103060008071094013019088107075125094072121069018120024010006098094098123125070126095072093&EXT=pdf&INDEX=TRUE
