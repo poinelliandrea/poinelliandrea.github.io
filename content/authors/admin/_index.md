@@ -3,7 +3,7 @@
 #  matter.
 education:
   courses:
-  - course: Doctorate in Economics
+  - course: Doctoral Degree in Economics
     institution: Goethe University Frankfurt
     year: 2023-today
   - course: Master of Arts in Economics
@@ -54,7 +54,7 @@ superuser: true
 title: Andrea Poinelli
 ---
 
-Greetings and welcome to my website! My name is Andrea and I serve as a research assistant in the monetary policy implementation focus group at the Deutsche Bundesbank Research Centre. Additionally, I work as a consultant in the monetary policy assessment section of the directorate general monetary policy at the European Central Bank. Currently, I am pursuing a Doctorate Degree in Economics at Goethe University Frankfurt, where my research centers around the transmission and implementation of monetary policy, with a specific focus on money markets and the repo market.
+Greetings and welcome to my website! My name is Andrea and I serve as a research assistant in the monetary policy implementation focus group at the Deutsche Bundesbank Research Centre. Additionally, I work as a consultant in the monetary policy assessment section of the directorate general monetary policy at the European Central Bank. Currently, I am pursuing a Doctorate in Economics at Goethe University Frankfurt, where my research centers around the transmission and implementation of monetary policy, with a specific focus on money markets and the repo market.
 
 <span style="font-size: 12px;">The views expressed here are my own and do not necessarily reflect those of the Deutsche Bundesbank, the European Central Bank, or the Eurosystem</span>.
 {style="text-align: justify;"}
