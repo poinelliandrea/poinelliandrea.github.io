@@ -4,14 +4,14 @@
 education:
   courses:
   - course: Doctoral Degree in Economics
-    institution: Goethe University Frankfurt
-    year: 2023-today
+    institution: Goethe University Frankfurt (2023-today)
+    #year: 2023-today
   - course: Master of Arts in Economics
-    institution: University of St Gallen
-    year: 2018-2021
+    institution: University of St Gallen (2018-2021)
+    #year: 2018-2021
   - course: Master of Science in Financial Economics
-    institution: Erasmus University Rotterdam
-    year: 2017-2018
+    institution: Erasmus University Rotterdam (2017-2018)
+    #year: 2017-2018
 email: ""
 first_name: Andrea
 highlight_name: true
