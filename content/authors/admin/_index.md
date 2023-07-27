@@ -58,3 +58,7 @@ Greetings and welcome to my website! My name is Andrea and I serve as a research
 
 <span style="font-size: 12px;">The views expressed here are my own and do not necessarily reflect those of the Deutsche Bundesbank, the European Central Bank, or the Eurosystem</span>.
 {style="text-align: justify;"}
+
+<meta name="google-site-verification" content="UJDT8nEGSZ2d_WfNTHkeOvr3Fogm9yCmLQOVgLbpsos" />
+
+
