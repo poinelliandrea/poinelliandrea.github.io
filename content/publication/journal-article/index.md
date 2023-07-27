@@ -4,7 +4,7 @@ abstract: Using survey data from German households, we find that individuals wit
 # - Equal contribution
 # - Equal contribution
 authors:
-- Christoph Meinerding
+- [Christoph Meinerding](https://sites.google.com/site/meinerding/home)
 - Andrea Poinelli
 - Yves S. Schüler
 date: "2022-04-27T00:00:00Z"
