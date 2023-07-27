@@ -23,7 +23,6 @@ publication: '*Deutsche Bundesbank Discussion Paper, 12/2022*'
 publishDate: "2022-04-27T00:00:00Z"
 #slides: example
 summary: Using survey data from German households, we find that individuals with higher concern about the consequences of climate change have lower inflation expectations up to five years ahead. We show that the link between climate concern and inflation expectations goes above and beyond individuals’ perception of their personal exposures to climate-related risks, their distrust in the central bank, and a broad range of socio-demographic and socio-economic control variables.
-Under revision at the European Journal of Political Economy
 
 #tags:
 #- Source Themes
