@@ -27,7 +27,7 @@ summary: Using survey data from German households, we find that individuals with
 #tags:
 #- Source Themes
 title: Households's Inflation expectations and concern about climate change
-# url_code: ""
+# url_code: "https://www.suerf.org/suerf-policy-brief/48761/inflation-expectations-and-climate-concern#:~:text=Using%20survey%20data%20from%20German,with%20extremely%20high%20inflation%20expectations"
 # url_dataset: ""
 #url_pdf: https://deliverypdf.ssrn.com/delivery.php?ID=733004110116080121096069064012097090020064018031086020031019037057033120032005024001100102015011116100072067029029122069103060008071094013019088107075125094072121069018120024010006098094098123125070126095072093&EXT=pdf&INDEX=TRUE
 # url_poster: ""
