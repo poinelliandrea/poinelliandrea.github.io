@@ -181,11 +181,11 @@ sections:
       exclude_featured: true
       folders:
       - publication
-    # text: |-
-    #   {{% callout note %}}
-    #   Quickly discover relevant content by [filtering publications](./publication/).
-    #   {{% /callout %}}
-    title: Working Papers
+     text: |-
+       {{% callout note %}}
+       Quickly discover relevant content by [filtering publications](./publication/).
+       {{% /callout %}}
+    title: Publications
   design:
     columns: "2"
     view: citation
