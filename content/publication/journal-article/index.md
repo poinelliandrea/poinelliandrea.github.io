@@ -16,7 +16,7 @@ doi: ""
 #   focal_point: ""
 #   preview_only: false
 #projects: []
-publication: '*Deutsche Bundesbank Discussion Paper, 12/2022*'
+publication: '*European Journal of Political Economy (forthcoming)*'
 #publication_short: ""
 #publication_types:
 #- "2"
